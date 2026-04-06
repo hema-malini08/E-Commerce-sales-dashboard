@@ -1,4 +1,4 @@
-# E-Commerce Sales Performance Dashboard
+# E-Commerce Sales Dashboard
 
 ## Project Overview
 Analyzed e-commerce sales data using Power BI to evaluate sales performance, profitability, and customer demand patterns across products, regions, and time. Built an interactive dashboard to support data-driven business decisions.
@@ -7,7 +7,6 @@ Analyzed e-commerce sales data using Power BI to evaluate sales performance, pro
 
 ## Tools Used
 - Power BI  
-- Excel  
 
 ---
 
@@ -44,4 +43,4 @@ Analyzed e-commerce sales data using Power BI to evaluate sales performance, pro
 ---
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/hema-malini08/E-Commerce-sales-dashboard/blob/main/E-COMMERCE%20SALES%20DASHBOARD.png)
